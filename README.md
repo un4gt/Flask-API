@@ -9,8 +9,6 @@ Project Layout from [miguelgrinberg/flasky: Companion code to my O'Reilly book "
 ```text
 │  .gitignore
 │  config.py
-│  cookiecutter.json
-│  LICENSE
 │  README.md
 │  {{cookiecutter.application_name}}.py
 │

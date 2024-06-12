@@ -1,1 +1,0 @@
-# {{ cookiecutter.application_name }}

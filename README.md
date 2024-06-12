@@ -13,7 +13,7 @@ Project Layout from [miguelgrinberg/flasky: Companion code to my O'Reilly book "
 │  {{cookiecutter.application_name}}.py
 │
 ├─tests
-└─{{cookiecutter.package_name}}
+└─{{cookiecutter.application_name}}
     │  exceptions.py  # your custom exceptions
     │  __init__.py  # create_app function here
     │

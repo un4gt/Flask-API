@@ -38,19 +38,21 @@ pip install --upgrade cookiecutter
 
 #### Create a new project
 
+#### With `cookiecutter`
+
 ```bash
 cookiecutter https://github.com/jennier0107/Flask-API
 ```
 
-### With [Flasky-Cli](https://github.com/jennier0107/flasky-cli)
+#### With [Flasky-Cli](https://github.com/jennier0107/flasky-cli)
 
-#### Install Flasky-Cli
+##### Install Flasky-Cli
 
 ```bash
 pip install --upgrade flasky-cli
 ```
 
-#### Create a new project
+##### Create new project
 
 ```bash
 flasky-cli create

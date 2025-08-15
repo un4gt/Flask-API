@@ -10,7 +10,7 @@ Project Layout from [miguelgrinberg/flasky: Companion code to my O'Reilly book "
 │  .gitignore
 │  config.py
 │  README.md
-│  {{cookiecutter.application_name}}.py
+│  main.py
 │
 ├─tests
 └─{{cookiecutter.application_name}}
